@@ -1,0 +1,7 @@
+C:\Users\Maxhatter\Documents\Visual Studio 2010\Projects\634_termproject\634_termproject\bin\634_termproject.dll
+C:\Users\Maxhatter\Documents\Visual Studio 2010\Projects\634_termproject\634_termproject\bin\634_termproject.pdb
+C:\Users\Maxhatter\Documents\Visual Studio 2010\Projects\634_termproject\634_termproject\bin\EntityFramework.dll
+C:\Users\Maxhatter\Documents\Visual Studio 2010\Projects\634_termproject\634_termproject\bin\EntityFramework.xml
+C:\Users\Maxhatter\Documents\Visual Studio 2010\Projects\634_termproject\634_termproject\obj\Debug\CISTermProject.csprojResolveAssemblyReference.cache
+C:\Users\Maxhatter\Documents\Visual Studio 2010\Projects\634_termproject\634_termproject\obj\Debug\634_termproject.dll
+C:\Users\Maxhatter\Documents\Visual Studio 2010\Projects\634_termproject\634_termproject\obj\Debug\634_termproject.pdb

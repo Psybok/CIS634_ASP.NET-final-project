@@ -1,0 +1,24 @@
+@using CISTermProject634.HelperClasses
+
+@model IEnumerable<Models.ArticleInformation>
+
+@{
+    ViewBag.Title = "Home Page";
+}
+
+
+
+
+<table align="center">
+   <h2 align="center">Latest stories submitted by you!</h2>
+    @foreach (var article in Model)
+    {
+        <tr>
+            <td>
+                <a href="@article.Url">@article.Title</a>
+                <br />
+                <div class="dateAdded">Article submitted @article.DateAdded.ToRelativeDateStringUtc()</div>
+            </td>
+        </tr>
+    }
+</table>
